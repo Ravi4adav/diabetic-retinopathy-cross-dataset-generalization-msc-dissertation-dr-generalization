@@ -1,0 +1,4 @@
+Dataset,Accuracy,Macro F1,QW Kappa,Class 3 (Severe) Recall
+APTOS (in-distribution),0.814,0.657,0.889,0.429
+IDRiD (external),0.524,0.428,0.763,0.072
+Messidor-2 (external),0.601,0.29,0.38,0.04
